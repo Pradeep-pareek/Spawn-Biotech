@@ -849,3 +849,9 @@
     top: 14px;
     width: 86px;
 } */
+
+.form-section{
+    background: #ee2970;
+    padding: 35px 25px;
+    border-radius: 6px;
+}
